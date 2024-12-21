@@ -105,4 +105,4 @@ A documentação completa, incluindo anotações teóricas e resumos das aulas, 
 **Curso:** Engenharia da Computação  
 **Universidade:** Universidade Federal do Pará (UFPA)  
 
-Desenvolvido por [Higor Pires]([https://github.com/seu-usuario](https://github.com/Hgrcrls)).
+Desenvolvido por [Higor Pires](https://github.com/Hgrcrls).
