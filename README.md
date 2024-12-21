@@ -25,7 +25,7 @@ Bem-vindo ao repositório de Estrutura de Dados em Java! Este repositório foi c
 ## 🛠️ Tecnologias e Ferramentas
 
 - Linguagem de programação: **Java**
-- IDE recomendada: **IntelliJ IDEA**, **Eclipse** ou qualquer outra de sua preferência
+- IDE recomendada: **IntelliJ IDEA**, **NetBeans** ou qualquer outra de sua preferência
 - Compilador: **JDK 11 ou superior**
 
 ---
