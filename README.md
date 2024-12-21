@@ -4,10 +4,7 @@ Bem-vindo ao repositório de Estrutura de Dados em Java! Este repositório foi c
 
 ---
 
-## 📚 Conteúdo do Repositório
-
-- **[src/](src/):** Implementações de estruturas de dados.
- ## 📚 Conteúdo
+## ## 📚 Conteúdo
 
 ### Variáveis
 - **Locais:** `VarLocal.java`
@@ -30,12 +27,6 @@ Bem-vindo ao repositório de Estrutura de Dados em Java! Este repositório foi c
 
 ### Outros Conceitos
 - Upcasting (`Instrumentos.java`)
-  
-- **[docs/](docs/):** Documentação adicional.
-  - **Anotações:** Resumo de conceitos teóricos.
-  - **Referências:** Links úteis e materiais complementares.
-
-- **[exemplos/](exemplos/):** Códigos com exemplos práticos para uso e teste.
 
 ---
 
