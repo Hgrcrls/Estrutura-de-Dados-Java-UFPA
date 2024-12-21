@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.exemplo;
+package com.mycompany.exemplo.Instancia;
 
 class Varlocal {
     void imprimeVar(){
