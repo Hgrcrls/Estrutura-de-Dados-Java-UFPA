@@ -7,12 +7,29 @@ Bem-vindo ao repositório de Estrutura de Dados em Java! Este repositório foi c
 ## 📚 Conteúdo do Repositório
 
 - **[src/](src/):** Implementações de estruturas de dados.
-  - Arrays
-  - Listas (simples, duplamente encadeadas, circulares)
-  - Pilhas (estáticas e dinâmicas)
-  - Filas (simples, circulares, com prioridade)
-  - Árvores (binárias, AVL, B-trees)
-  - Grafos (representação por matriz e lista de adjacência)
+ ## 📚 Conteúdo
+
+### Variáveis
+- **Locais:** `VarLocal.java`
+- **De Instância:** `VarInstancia.java`
+- **De Classe:** `VarClass.java`
+
+### Métodos
+- Métodos simples e exemplos (`Metodo.java`)
+- Retorno com função (`Funcao.java`)
+- Procedimentos (`Procedimento.java`)
+- Métodos de classe (`MetodoClasse.java`)
+
+### Construtores
+- Construtor Simples (`ConstrutorSimples.java`)
+- Construtor com Parâmetros (`ConstrutorComParametros.java`)
+
+### Herança e Polimorfismo
+- Conceitos básicos de herança (`SuperClasse.java`, `SubClasse.java`, `MetodoAnulado.java`)
+- Polimorfismo com formas geométricas (`Shapes.java`)
+
+### Outros Conceitos
+- Upcasting (`Instrumentos.java`)
   
 - **[docs/](docs/):** Documentação adicional.
   - **Anotações:** Resumo de conceitos teóricos.
