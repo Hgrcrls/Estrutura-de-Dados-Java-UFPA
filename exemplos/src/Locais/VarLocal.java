@@ -1,3 +1,4 @@
+package Locais;
 class Varlocal {
     void imprimeVar(){
         int i = 1; //variavel local
