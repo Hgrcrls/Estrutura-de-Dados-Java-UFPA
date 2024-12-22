@@ -21,12 +21,12 @@ int i = 1; // variavel local
 String s = "Bom dia"; // variavel local
 ```
 - int i = 1;:
-- - Declara uma variável local i do tipo int (número inteiro).
--- A variável é inicializada com o valor 1.
--- É chamada local porque foi declarada dentro do método imprimeVar, e só pode ser usada nesse método.
+ - Declara uma variável local i do tipo int (número inteiro).
+ - A variável é inicializada com o valor 1.
+ - É chamada local porque foi declarada dentro do método imprimeVar, e só pode ser usada nesse método.
 - String s = "Bom dia";:
--- Declara uma variável local s do tipo String (sequência de caracteres).
--- É inicializada com o valor "Bom dia".
+ - Declara uma variável local s do tipo String (sequência de caracteres).
+ - É inicializada com o valor "Bom dia".
 
 # 4. Impressão das Variáveis
 ```java 19
