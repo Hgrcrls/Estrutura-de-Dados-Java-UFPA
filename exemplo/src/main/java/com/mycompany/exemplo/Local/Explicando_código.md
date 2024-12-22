@@ -80,11 +80,11 @@ v.imprimeVar();
 - v.imprimeVar();: Chama o método imprimeVar do objeto v.
 
 # Fluxo Completo de Execução
-1 - O programa começa no método main.
-2 - Um objeto da classe Varlocal é criado e armazenado na variável v.
-3 - O método imprimeVar é chamado.
-4 - No método imprimeVar:
+- 1 - O programa começa no método main.
+- 2 - Um objeto da classe Varlocal é criado e armazenado na variável v.
+- 3 - O método imprimeVar é chamado.
+- 4 - No método imprimeVar:
   - A variável s é inicializada com "Bom dia".
   - A variável i é inicializada com 1.
   - Os valores de s e i são exibidos no console.
-5 - O programa termina.
+- 5 - O programa termina.
