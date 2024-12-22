@@ -55,7 +55,7 @@ System.out.println(VarClass.i);
 ```java 19
 0
 ```
-## Saída no Console
+## Resumo
 - 1 - A variável i é uma variável de classe por causa da palavra-chave static.
 - 2 - Como é estática, pode ser acessada diretamente pelo nome da classe, sem a necessidade de criar um objeto.
 - 3 - O programa simplesmente imprime o valor inicial de i, que é 0.
