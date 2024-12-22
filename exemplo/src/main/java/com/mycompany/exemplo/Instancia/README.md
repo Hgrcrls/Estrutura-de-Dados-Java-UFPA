@@ -67,15 +67,15 @@ public static void main(String[] args) {
   - Imprime o valor atual da variável de instância i (5), acessada diretamente pelo objeto v.
 
 ## Fluxo Completo de Execução
-- 1. O programa começa no método main.
-- 2. Um objeto da classe VarInstancia é criado e armazenado na variável v.
-- 3. O método imprimeVar1 é chamado:
+- 1 O programa começa no método main.
+- 2 Um objeto da classe VarInstancia é criado e armazenado na variável v.
+- 3 O método imprimeVar1 é chamado:
   - O valor inicial de i (0) é impresso.
   - i é incrementado em 2 (valor de i agora é 2).
-- 4. O método imprimeVar2 é chamado:
+- 4 O método imprimeVar2 é chamado:
   - O valor atual de i (2) é impresso.
   - i é incrementado em 3 (valor de i agora é 5).
-- 5. O valor final de i (5) é impresso diretamente.
+- 5 O valor final de i (5) é impresso diretamente.
 
 
 
