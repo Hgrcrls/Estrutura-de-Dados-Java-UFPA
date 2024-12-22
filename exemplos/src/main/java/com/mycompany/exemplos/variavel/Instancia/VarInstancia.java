@@ -1,4 +1,4 @@
-package com.mycompany.exemplo.Instancia;
+package com.mycompany.exemplos.variavel.Instancia;
 
 class VarInstancia {
     int i = 0; //variavel de instancia

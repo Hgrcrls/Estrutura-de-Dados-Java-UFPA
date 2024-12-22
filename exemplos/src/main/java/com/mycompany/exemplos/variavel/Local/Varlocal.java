@@ -1,4 +1,4 @@
-package com.mycompany.exemplo.Local;
+package com.mycompany.exemplos.variavel.Local;
 
 class Varlocal {
     void imprimeVar(){
