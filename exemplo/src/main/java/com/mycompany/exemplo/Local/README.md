@@ -1,3 +1,5 @@
+# Explicando o código:
+
 ### Java 19
 ```java 19
 package com.mycompany.exemplo.Local;
@@ -16,7 +18,7 @@ class Varlocal {
     }
 }
 ```
-# 1. Definição da Classe
+## 1. Definição da Classe
 ```java 19
 public class Varlocal {
 
@@ -25,7 +27,7 @@ public class Varlocal {
 - class: Palavra-chave usada para declarar uma classe.
 - Varlocal: Nome da classe. Segue a convenção de começar com uma letra maiúscula.
 
-# 2. Método imprimeVar
+## 2. Método imprimeVar
 ```java 19
 void imprimeVar(){
 ```
@@ -33,7 +35,7 @@ void imprimeVar(){
 - imprimeVar: Nome do método. Representa a ação que ele realizará (imprimir variáveis locais).
 - (): Indica que esse método não recebe parâmetros.
 
-# 3. Declaração de Variáveis Locais
+## 3. Declaração de Variáveis Locais
 ```java 19
 int i = 1; // variavel local
 String s = "Bom dia"; // variavel local
@@ -46,7 +48,7 @@ String s = "Bom dia"; // variavel local
   - Declara uma variável local s do tipo String (sequência de caracteres).
   - É inicializada com o valor "Bom dia".
 
-# 4. Impressão das Variáveis
+## 4. Impressão das Variáveis
 ```java 19
 System.out.println(s);
 System.out.println(i);
@@ -57,7 +59,7 @@ System.out.println(i);
 - System.out.println(i);:
   - Imprime o valor da variável i (1) no console.
 
-# 5. Método main
+## 5. Método main
 ```java 19
 public static void main(String[] args) {
 ```
@@ -67,7 +69,7 @@ public static void main(String[] args) {
 - main: Método principal que é executado quando o programa inicia.
 - String[] args: Argumentos que podem ser passados para o programa pela linha de comando (não são usados neste exemplo).
 
-# 6. Instanciação e Chamada do Método
+## 6. Instanciação e Chamada do Método
 ```java 19
 Varlocal v = new Varlocal();
 ```
@@ -79,7 +81,7 @@ v.imprimeVar();
 ```
 - v.imprimeVar();: Chama o método imprimeVar do objeto v.
 
-# Fluxo Completo de Execução
+## Fluxo Completo de Execução
 - 1 - O programa começa no método main.
 - 2 - Um objeto da classe Varlocal é criado e armazenado na variável v.
 - 3 - O método imprimeVar é chamado.
